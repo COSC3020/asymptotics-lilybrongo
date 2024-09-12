@@ -26,7 +26,7 @@ I used programiz to get a refresher on asymptotic notations, the link is: https:
 it provided graphs and explinations of each notation. 
 I also used my previous discrete notes to see comparisons.
 
-*Made changes to the first example, attempt 2
+*Made changes to the first attempt, attempt 2
 
 I certify that I have listed all sources used to complete this exercise, including the use
 of any Large Language Models. All of the work is my own, except where stated
